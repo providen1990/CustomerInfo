@@ -1,0 +1,1 @@
+../../../AltBeacon/AltBeacon/Source/Extension/CBPeripheralManager+Ext.h

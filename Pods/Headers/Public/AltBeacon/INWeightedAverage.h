@@ -1,0 +1,1 @@
+../../../AltBeacon/AltBeacon/Source/Util/INWeightedAverage.h

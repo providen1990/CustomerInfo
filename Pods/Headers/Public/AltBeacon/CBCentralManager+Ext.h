@@ -1,0 +1,1 @@
+../../../AltBeacon/AltBeacon/Source/Extension/CBCentralManager+Ext.h
